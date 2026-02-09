@@ -1,15 +1,24 @@
 {
-  "name": "NutriCalc - Suivi Nutrition",
-  "short_name": "NutriCalc",
-  "description": "Calculateur nutritionnel pour prise de masse sèche",
-  "start_url": "./",
-  "scope": "./",
+  "name": "Colosse — Coach PPL",
+  "short_name": "Colosse",
+  "description": "Programme PPL 12 semaines — Deviens massif",
+  "start_url": "./colosse-app.html",
   "display": "standalone",
   "orientation": "portrait",
-  "theme_color": "#0a0a0f",
-  "background_color": "#0a0a0f",
+  "background_color": "#08080d",
+  "theme_color": "#08080d",
   "icons": [
-    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
   ]
 }
